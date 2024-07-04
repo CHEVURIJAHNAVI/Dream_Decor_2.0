@@ -23,12 +23,7 @@
     height: 80px; 
     margin-left:44%; 
  }
- .one-one{
-   /*box-shadow: 0 8px 32px rgba(0, 0, 0, .4);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);*/
-  
- }
+ 
  .navbar ul {
    
     list-style: none;
@@ -191,7 +186,6 @@
    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25);
    background: white;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); 
-   -webkit-backdrop-filter: blur(10px);
 }
 .one3 img{
    width:360px;
@@ -301,6 +295,20 @@
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); 
    border: none;
    background-color: white;
+   width: 40rem;
+   padding-left:2rem;
+   font-size: 2rem;
+}
+h6{
+   font-size: 2rem;
+}
+.btn2 a{
+   text-decoration: none;
+   color: white;
+}
+a{
+   text-decoration: none;
+   color: black;
 }
 
 
