@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.one {
+    display: grid;
+    grid-template-areas: 25% 25% 25% 25%;
+    background-color: brown;
+}
