@@ -254,12 +254,12 @@ button {
     margin-top: 5px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-    font-weight: 800px;
+
 }
 
 .buy-1 {
     background-color:rgb(6, 113, 252) ;
-
+    color: white;
  }
 .buy-2 {
     background-color:rgb(6, 113, 252) ;

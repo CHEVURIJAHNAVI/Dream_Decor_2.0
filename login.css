@@ -180,7 +180,8 @@
     width: 400px;
     background-color:white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); 
-    
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     border-radius:12px;
     padding:30px 40px;
     margin-left: 35%;
@@ -274,5 +275,4 @@ text-align:center;
 }
 a{
    text-decoration: none;
-   color: black;
 }

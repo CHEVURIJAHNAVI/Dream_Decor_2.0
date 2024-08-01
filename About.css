@@ -54,9 +54,8 @@
     background: white;
     border-bottom:2px solid rgb(6, 113, 252) ;
     box-shadow: 0 8px 32px rgba(0, 0, 0, .4);
-    backdrop-filter: blur(10px);
+   
     -webkit-backdrop-filter: blur(10px);
-    
     width:160px;
  }
  .navbar ul li ul{
@@ -188,14 +187,12 @@ margin:auto;
 position:center;
 background-color:white;
 box-shadow: 0 8px 32px rgba(0, 0, 0, .4);
-border-radius:25px;
 
+
+border-radius:25px;
+filter:opacity(85%);
 padding:35px 35px 100px 35px;
 text-align:justify;
 font-size:20px;
 line-height:30px;
-}
-a{
-   text-decoration: none;
-   color: black;
 }

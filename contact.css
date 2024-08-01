@@ -8,7 +8,7 @@
     width: 100%;
     height: 100vh;
     /*background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(home.png);*/
-    background-color: white;
+    background-color: whitesmoke;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@
       border-radius: 80%;
       margin: 2%;
      cursor: pointer;
-      border:2px solid black;
+      border:2px solid rgb(190, 190, 190);
       color: black;
     }
 .contact-form i.fa:hover{
@@ -242,9 +242,9 @@ input{
     padding: 10px;
      margin:10px;
     width: 70%;
-    background-color:whitesmoke;
+    background-color:rgba(136, 133, 133, 0.5);
     color: black;
-    border: 2px solid black;
+    border: none;
     outline:none;
       }
 
